@@ -10,7 +10,7 @@ This project automates the process of detecting and isolating compromised EC2 in
 ### Project 2: [AI-Driven Threat Detection in AWS Environments](https://github.com/reyincyber/CloudSecurity--Azure-AWS/blob/main/AI-Driven%20Threat%20Detection%20in%20AWS%20Environments%20.pdf)
 With cyberattacks growing more sophisticated and the adoption of cloud services expanding, traditional security methods alone are no longer enough. AWS offers several AI-powered tools designed to enhance security and stay ahead of potential threats. This project provides conceptual and hands-on exploration of AWS's AI/ML-powered security services (GuardDuty, Detective, Macie, Rekognition) focused on improving threat detection, forensic investigation, and sensitive-data discovery across cloud workloads. Includes practical recommendations, architecture considerations, and a sample incident analysis (exposed S3 keys, attacker activity, and remediation guidance).
 
-### Project 3: [G6 Open Day AzureDDM Dynamic Data Masking](https://github.com/reyincyber/CloudSecurity--Azure-AWS/blob/main/G6%20Open%20Day%20AzureDDM%20Dynamic%20Data%20Masking.pdf)
+### Project 3: [AzureDDM Dynamic Data Masking - G6 Open Day](https://github.com/reyincyber/CloudSecurity--Azure-AWS/blob/main/AzureDDM%20Dynamic%20Data%20Masking%20-%20G6%20Open%20Day.pdf)
 A hands-on walkthrough demonstrating how to create an Azure SQL Database, configure a user with limited privileges, and enable Dynamic Data Masking (DDM) to obfuscate sensitive columns in query results, useful for protecting PII in development or reporting scenarios while preserving usability for authorized roles.
 
 ## License
